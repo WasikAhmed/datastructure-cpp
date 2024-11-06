@@ -1,1 +1,1 @@
-# datastructure-cpp
+# datastructures
